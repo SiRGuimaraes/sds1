@@ -6,5 +6,5 @@ Semana DevSuperior é um evento online e gratuito focado em ensinar a aplicar os
 Canal do youtube dos responsáveis pelo evento: https://www.youtube.com/channel/UC3twHmWQwtqEO7u-gB_2f7g
 
 Link do projeto web no Netlify: 
-https://app.netlify.com/sites/sds1-rafa/overview 
+https://sds1-rafa.netlify.app/
 
